@@ -1,0 +1,28 @@
+{
+  "MasaAdet": 20,
+  "Urunler": [
+    {
+      "UrunAd": "armut",
+      "BirimFiyat": 20.00
+    }
+  ],
+  "AktifSiparisler": [],
+  "GecmisSiparisler": [
+    {
+      "MasaNo": 3,
+      "OdenenTutar": 40.00,
+      "AcilisZamani": "2021-02-23T17:07:14.305259+03:00",
+      "KapanisZamani": "2021-02-23T17:12:01.0885369+03:00",
+      "SiparisDetaylar": [
+        {
+          "UrunAd": "armut",
+          "BirimFiyat": 20.00,
+          "Adet": 2,
+          "TutarTL": "₺40,00"
+        }
+      ],
+      "Durum": 1,
+      "ToplamTutarTL": "₺40,00"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Emre\Source\Repos\DictinaryHashSet\Kafe21.Data\bin\Debug\Kafe21.Data.dll
+C:\Users\Emre\Source\Repos\DictinaryHashSet\Kafe21.Data\bin\Debug\Kafe21.Data.pdb
+C:\Users\Emre\Source\Repos\DictinaryHashSet\Kafe21.Data\obj\Debug\Kafe21.Data.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Source\Repos\DictinaryHashSet\Kafe21.Data\obj\Debug\Kafe21.Data.dll
+C:\Users\Emre\Source\Repos\DictinaryHashSet\Kafe21.Data\obj\Debug\Kafe21.Data.pdb
+C:\Users\Emre\Source\Repos\DictinaryHashSet\Kafe21.Data\bin\Debug\Kafe21.Data.dll.config
+C:\Users\Emre\Source\Repos\DictinaryHashSet\Kafe21.Data\bin\Debug\EntityFramework.dll
+C:\Users\Emre\Source\Repos\DictinaryHashSet\Kafe21.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emre\Source\Repos\DictinaryHashSet\Kafe21.Data\bin\Debug\EntityFramework.xml
+C:\Users\Emre\Source\Repos\DictinaryHashSet\Kafe21.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emre\Source\Repos\DictinaryHashSet\Kafe21.Data\obj\Debug\Kafe21.Data.csprojAssemblyReference.cache
+C:\Users\Emre\Source\Repos\DictinaryHashSet\Kafe21.Data\obj\Debug\Kafe21.Data.csproj.CopyComplete
+C:\Users\Emre\source\repos\DictinaryHashSet\Kafe21.Data\obj\Debug\Kafe21.Data.Migrations.Ilk.resources
+C:\Users\Emre\source\repos\DictinaryHashSet\Kafe21.Data\obj\Debug\Kafe21.Data.csproj.GenerateResource.cache
